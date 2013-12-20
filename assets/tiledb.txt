@@ -1,0 +1,9 @@
+FLOOR01,false,0,assets/tiles/checkfloor.png
+WALL01,true,0,assets/tiles/wall.png
+END01,false,0,assets/tiles/endlevel.png
+WATER01,false,0,assets/tiles/water.png
+FLOOR02,false,0,assets/tiles/hexfloor.png
+WALL02,true,0,assets/tiles/wall2.png
+FLOOR03,false,0,assets/tiles/rocklavafloor.png
+WALL03,true,0,assets/tiles/redwall.png
+LAVA01,false,10,assets/tiles/lava.png

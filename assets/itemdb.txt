@@ -1,0 +1,8 @@
+HEALTH15,Stimpack,15,0,0,-1,false,true,assets/items/stimpack.png
+HEALTH30,Medipack,30,0,0,-1,false,true,assets/items/medikit.png
+ARMOUR100,Green Armour,0,100,0,-1,false,true,assets/items/greenarmour.png
+PISTOL,Pistol,0,0,0,0,true,true,assets/weapons/pistol.png
+SHOTGUN,Shotgun,0,0,0,1,true,true,assets/weapons/shotgun.png
+REDKEY,Red Key,0,0,0,-1,false,false,assets/redkey.png
+PANDORA,Pandora,0,0,0,2,true,true,assets/weapons/pandora.png
+ARMOUR200,Blue Armour,0,200,0,-1,false,true,assets/items/bluearmour.png

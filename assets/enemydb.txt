@@ -1,0 +1,3 @@
+FORMERHUMAN,Former Human,0,4,10,true,assets/enemy.png
+FORMERSARG,Shotgunner,1,5,17,true,assets/enemy2.png
+BOSS,Spikey Thing,2,30,300,false,assets/enemy3.png

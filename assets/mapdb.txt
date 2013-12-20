@@ -1,0 +1,3 @@
+assets/map.txt
+assets/map2.txt
+assets/map3.txt
