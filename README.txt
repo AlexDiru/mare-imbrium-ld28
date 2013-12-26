@@ -7,6 +7,7 @@ RMB - shoot
 U, Enter - use item (in inventory mode)
 D, backspace - drop item (in inventory mode)
 G - pick up item
+I - use inventory
 
 Credits:
 Alexander Spedding - Programmer | twitter.com/AlexDiru | facebook.com/AlexDiru
